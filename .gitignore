@@ -1,21 +1,16 @@
-# 🧠 IDEs
 .idea/
 *.iml
 nbproject/
 
-# 🛠️ Builds e distribuições
 build/
 dist/
 out/
 
-# 📄 Arquivos de configuração gerados
 build.xml
 manifest.mf
 
-# 📦 Dependências externas
 lib/
 
-# 🚫 Outros arquivos temporários/comuns
 *.class
 *.log
 *.jar
